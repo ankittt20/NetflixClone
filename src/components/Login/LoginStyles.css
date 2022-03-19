@@ -6,9 +6,6 @@
   background-size: cover;
 }
 
-.login-background {
-}
-
 .login-gradient {
   width: 100%;
   height: 100vh;
@@ -99,5 +96,9 @@
 
   .signin-button {
     right: 25px;
+  }
+
+  .login-body {
+      top: 20%;
   }
 }
