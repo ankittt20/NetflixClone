@@ -1,4 +1,11 @@
 # Netflix-Clone
-Web Team Induction Project.
+This is a simple Netflix Clone with some basic features.
 
-API Used : https://www.themoviedb.org/documentation/api
+## Technologies
+
+* [API Used](https://www.themoviedb.org/documentation/api)
+* [Hosted With](https://www.netlify.com)
+
+## Website
+
+* [View Website](https://agitated-shaw-ccdf10.netlify.app/)
